@@ -1,2 +1,2 @@
 # Huayra-Levels
-A WorldMap for supertux2 and supertux (created in supertux2 v0.6.0)
+A WorldMap for supertux2 and supertux (created in supertux2 v0.6.0 and v0.6.3)
